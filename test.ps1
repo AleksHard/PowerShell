@@ -1,0 +1,1 @@
+﻿Move-Item -Path D:\Bastion\DB_for_reports\Warehouse\2016-12-15-BASTION-OLD.GDB -Destination D:\Bastion\DB_for_reports\
